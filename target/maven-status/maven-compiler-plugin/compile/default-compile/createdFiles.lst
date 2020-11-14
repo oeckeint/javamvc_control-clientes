@@ -1,0 +1,5 @@
+datos\Conexion.class
+web\ServletControlador.class
+dominio\Cliente.class
+test\cliente.class
+datos\clienteDaoJDBC.class
